@@ -1,0 +1,63 @@
+#######################################
+# Syntax Highlighting For Centrix_LineFollower_Normal
+#######################################
+
+#######################################
+# Datatypes and Functions (KEYWORD2)
+#######################################
+initRobot	KEYWORD2
+setSensorPins	KEYWORD2
+setMotorPins	KEYWORD2
+waitForStart	KEYWORD2
+checkEmergencyStop	KEYWORD2
+Motor	KEYWORD2
+Stop	KEYWORD2
+driveRaw	KEYWORD2
+readRaw	KEYWORD2
+position	KEYWORD2
+readPosition	KEYWORD2
+Calibrate	KEYWORD2
+loadCalibration	KEYWORD2
+saveCalibration	KEYWORD2
+printCalibration	KEYWORD2
+ShowSensor	KEYWORD2
+ShowLine	KEYWORD2
+PD	KEYWORD2
+PD_Time	KEYWORD2
+PD_Cross	KEYWORD2
+PD_Left	KEYWORD2
+PD_Right	KEYWORD2
+handleAction	KEYWORD2
+turnLeft	KEYWORD2
+turnRight	KEYWORD2
+pressed	KEYWORD2
+setLed	KEYWORD2
+blinkLed	KEYWORD2
+LedGreen	KEYWORD2
+LedRed	KEYWORD2
+LedBlue	KEYWORD2
+rainbowUpdate	KEYWORD2
+
+#######################################
+# Constants and Globals (LITERAL1)
+#######################################
+rawVal	LITERAL1
+MIN	LITERAL1
+MAX	LITERAL1
+calMin	LITERAL1
+calMax	LITERAL1
+normVal	LITERAL1
+onLine	LITERAL1
+calibrated	LITERAL1
+lastPosition	LITERAL1
+lastError	LITERAL1
+NUM_SENSORS	LITERAL1
+LINE_IS_BLACK	LITERAL1
+SENSOR_REVERSE	LITERAL1
+LEFT_INVERT	LITERAL1
+RIGHT_INVERT	LITERAL1
+SW1	LITERAL1
+SW2	LITERAL1
+TURN_SPEED	LITERAL1
+CROSS_FORWARD_MS	LITERAL1
+CROSS_PASS_MS	LITERAL1
